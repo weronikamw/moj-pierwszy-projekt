@@ -1,0 +1,25 @@
+body{
+  background: #E9EAEC;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.heading{
+  color: #27282A;
+  font-size: 40px;
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.text{
+  color: #27282A;
+  font-size: 18px;
+}
+
+
+.rectanglelist{
+  background: #FFFFFF;
+  width: 60px
+  height: 60px;
+  border-radius: 100%;
+
+}
